@@ -17,6 +17,9 @@ public class FileReader  {
 		File file=new File("C:\\Users\\mrafz\\Desktop\\JavaFile\\Sample1.txt"); 
 		
 //		FileReader fr=new FileReader("C:\\Users\\mrafz\\Desktop\\JavaFile\\Sample1.txt");    
+		//		FileReader fr=new FileReader("C:\\Users\\mrafz\\Desktop\\JavaFile\\Sample1.txt");   
+		//		FileReader fr=new FileReader("C:\\Users\\mrafz\\Desktop\\JavaFile\\Sample1.txt");   
+		//		FileReader fr=new FileReader("C:\\Users\\mrafz\\Desktop\\JavaFile\\Sample1.txt");   
 //		FileReader filereader = new FileReader(file);		
 //		BufferedReader = new BufferedReader(file);		
 //		BufferedReader bfwriter= new BufferedReader(new FileReader(file));
